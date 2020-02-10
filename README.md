@@ -1,4 +1,4 @@
-# RoshanStock
+# Stock
 A Stock Recommend System Developed in Python
 
 # Main Requirement:

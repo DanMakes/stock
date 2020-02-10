@@ -6,7 +6,7 @@
 
 
 __version__ = "0.0.1"
-__author__ = "Roshan Lamichhane"
+__author__ = "Dan Makes"
 __all__ = ['download', 'get_yahoo_crumb', 'parse_ticker_csv']
 
 import datetime
